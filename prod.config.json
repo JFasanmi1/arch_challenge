@@ -1,0 +1,4 @@
+{
+  "env": "prod",
+  "spacexDataBaseAPI": "https://api.spacexdata.com/v3"
+}

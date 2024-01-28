@@ -1,0 +1,4 @@
+{
+  "env": "qat",
+  "spacexDataBaseAPI": "https://api.spacexdata.com/v3"
+}
