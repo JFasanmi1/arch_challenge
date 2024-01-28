@@ -23,3 +23,6 @@ to build an IPA run
 - The tests will require some more time to figure out
 - Code comments (though I added comments for some logic but not as i want to because of time constraint)
 - Pipeline deployments for dev, uat, qat: both azure and github deployment
+
+##Side Note
+- i added some extra classes to demonstrate my full capability as a flutter developer
